@@ -5,8 +5,8 @@
 - 🌱 I’m currently Pursuing Electronics And Communication Engineering with a B.Tech Degree @ VIT,Chennai.
 - 👯 I’m looking to collaborate on Fun Arduino Projects
 - 📫 How to reach me: mail me  @  iam_abby_0017@icloud.com 
-                     -  Whatsapp @ +91 9841414321
-                     - Gram: https://www.instagram.com/abby.studios/
-                     - Linkedin:https://www.linkedin.com/in/abhisheksebastian/
-                     - Youtube:https://www.youtube.com/channel/UChhgPZn5DhrvIshBy_m7vVA
+-  Whatsapp @ +91 9841414321
+- Gram: https://www.instagram.com/abby.studios/
+- Linkedin:https://www.linkedin.com/in/abhisheksebastian/
+- Youtube:https://www.youtube.com/channel/UChhgPZn5DhrvIshBy_m7vVA
 
