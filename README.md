@@ -6,3 +6,4 @@
 - 📫 How to reach me: mail me  @  iam_abby_0017@icloud.com
 
 
+![MEA flowchart](https://user-images.githubusercontent.com/72368959/152088904-596d618e-d9f7-4149-89eb-3c766bda83b4.png)
