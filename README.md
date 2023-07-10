@@ -1,5 +1,5 @@
 
-<img width="358" alt="Screenshot 2023-07-02 at 10 47 59 PM" src="https://github.com/abby1712/abby1712/assets/72368959/371bf7df-8b7d-4766-bfc3-f3302ae45643">
+![Systems and technology programming company logo-2](https://github.com/abby1712/abby1712/assets/72368959/a4d27611-1daf-4367-bd5a-bfd10f7a08f9)
 
 # Hi there! 👋 I'm Abhishek Sebastian
 
