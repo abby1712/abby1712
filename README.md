@@ -15,6 +15,6 @@ I'm a passionate Electronics and Computer Engineering student at Vellore Institu
 - 🌱 Currently learning new technologies and frameworks in web development
 - ⚡️ Enthusiastic about solving real-world problems using technology
 
-- 
+
 
 
