@@ -6,7 +6,7 @@
 
 # Hi there! 👋 I'm Abhishek Sebastian
 
-I'm a passionate Electronics and Computer Engineering student at Vellore Institute of Technology, Chennai. Welcome to my GitHub profile!
+I'm a passionate Electronics and Communication Engineering student at Vellore Institute of Technology, Chennai. Welcome to my GitHub profile!
 
 ## About Me
 
