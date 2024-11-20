@@ -16,5 +16,7 @@ I'm a passionate Electronics and Communication Engineering student at Vellore In
 - ⚡️ Enthusiastic about solving real-world problems using technology
 
 
+## SoTA Paper Implemetations:
 
-
+Vision Transformers with Linear Projection
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vital-an-advanced-framework-for-automated/computational-efficiency-on-plant-village)](https://paperswithcode.com/sota/computational-efficiency-on-plant-village?p=vital-an-advanced-framework-for-automated)
