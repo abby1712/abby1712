@@ -22,3 +22,7 @@ Vision Transformers with Linear Projection
 
 ![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vital-an-advanced-framework-for-automated/computational-efficiency-on-plant-village)
 
+
+Prion-ViT for Temperature prediction using Specklegram images.
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/prion-vit-prions-inspired-vision-transformers/temperature-prediction-using-specklegrams-on)](https://paperswithcode.com/sota/temperature-prediction-using-specklegrams-on?p=prion-vit-prions-inspired-vision-transformers)
