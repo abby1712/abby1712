@@ -4,8 +4,8 @@
 I'm a passionate Engineer From Chennai. Welcome to my GitHub profile!
 
 ## About Me
-
-- 🎓 Studying Electronics and Communication Engineering at Vellore Institute of Technology, Chennai
+- 🎓 PG Student of Computer Science Engineering at University of Sydney, Sydney
+- 🎓 Graduate of Electronics and Communication Engineering at Vellore Institute of Technology, Chennai
 - 💻 Interested in Data science, and deployable AI
 - 🌱 Currently learning new technologies and frameworks in web development
 - ⚡️ Enthusiastic about solving real-world problems using technology
